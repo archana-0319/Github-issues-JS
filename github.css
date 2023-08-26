@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(52, 52, 51);
+    color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    width: 300px;
+}
+
+body button {
+    color: cadetblue;
+    border-radius: 10px;
+    box-shadow: inset red;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+
+#issuesList {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(141, 42, 234);
+    margin-left: 40px;
+}
